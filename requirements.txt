@@ -1,0 +1,7 @@
+Plaintext
+streamlit
+requests
+beautifulsoup4
+Pillow
+fpdf2
+urllib3
